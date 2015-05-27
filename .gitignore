@@ -2,3 +2,6 @@
 .project
 .classpath
 target
+src/main/webapp/ui/bower_components
+src/main/webapp/ui/node_modules
+src/main/webapp/ui/README.md
